@@ -1,0 +1,13 @@
+/* .cartContainer{
+  display: flex;
+} */
+.cartItemDetails {
+  display: flex;
+  justify-content: space-between;
+}
+.cartContainer{
+  display: flex;
+  max-width: 1260px;
+  margin: 15px auto;
+  justify-content: space-between;
+}

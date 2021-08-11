@@ -1,0 +1,25 @@
+.caContainer{
+    width: 250px;
+    margin: 0 10px;
+}
+.caImgContainer{
+    width: 250px;
+    height: 300px;
+    overflow: hidden;
+    position: relative;
+    
+}
+.caImgContainer > img{
+    width: 100%;
+    object-position: center;
+    height: 300px;
+    object-fit: fill;
+}
+.caProductName{
+    font-size: 12px;
+    padding: 10px 0;
+}
+.caProductPrice{
+    font-size: 12px;
+    font-weight: 700;
+}

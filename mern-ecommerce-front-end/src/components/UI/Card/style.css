@@ -1,0 +1,20 @@
+.card{
+    width: calc(100% - 20px);
+    margin: 15px 10px;
+    background: #fff;
+    border: 1px solid #cecece;
+    box-shadow: 0 0px 2px -2px #333;
+    
+}
+/* .card{
+    
+    margin: 10px 10px;
+    border: 1px solid #cecece;
+    box-shadow: 0 0px 2px -2px #333;
+} */
+.cardheader{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 20px;
+    border-bottom: 1px solid #cecece;
+}
